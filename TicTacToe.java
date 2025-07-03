@@ -5,7 +5,7 @@ public class TicTacToe {
     // Função para imprimir o tabuleiro
     public static void imprimirTabuleiro(char[][] tabuleiro) {
         for (int linha = 0; linha < 3; linha++) {
-            for (int coluna = 0; coluna < 2; coluna++) {
+            for (int coluna = 0; coluna < 3; coluna++) {
                 System.out.print("\t" + tabuleiro[linha][coluna]);
                 if (coluna < 2) {
                     System.out.print("\t|");
