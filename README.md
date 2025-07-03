@@ -1,0 +1,1 @@
+Jogo Da Velha Atividade proposta pela DTA da BOSCH Joinville com o objetivo de desenvolver um jogo da velha em Java, utilizando os conhecimentos aprendidos até o momento, como arrays, matrizes, métodos e estruturas de repetição, com a finalidade de praticar a lógica de programação.
